@@ -144,12 +144,6 @@
     "version": "1.0.0+a28aaca61d005c2dc5305237523f88e47f53ad60"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Grab Your Tool! (Continued)",
     "steamId": "2947023388",
@@ -159,7 +153,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.1"
+    "version": "1.6.5"
   },
   {
     "author": "Bradson та Gordohn",
@@ -183,7 +177,7 @@
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
-    "version": "1.0.0+a59cb1c900db16a73a667798a92ee4876648cb72"
+    "version": "1.6.0.4+83669dbe931cd3de14fb1825998c73af47165abd"
   },
   {
     "author": "Falconne",
@@ -195,7 +189,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -220,6 +214,12 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
+    "author": "bogknight",
+    "name": "Random Start",
+    "steamId": "3257028947",
+    "version": "1.0.0.0"
   },
   {
     "author": "Farxmai2",
