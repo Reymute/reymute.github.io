@@ -1741,6 +1741,148 @@
       },
       "defName": "Recluse",
       "name": "відлюдькуватість"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy має надзвичайну пам’ять як щодо збереження інформації, так і м’язової пам’яті. його навички ніколи не втратять досвід.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PerfectMemory",
+      "name": "ідеальнапам'ять"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy має глибокі знання про спотворені моделі темної психічної енергії. він може вивчати неприродних істот швидше за інших. він також періодично навчатиме інших цим нелюдським знанням, коли матиме нагоду.",
+      "stats": [
+        "+100% ефективність вивчення",
+        "+50% швидкість вивчення аномалії"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% ефективність вивчення",
+          "+50% швидкість вивчення аномалії"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Occultist",
+      "name": "окультизм"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy може змусити кожного почуватися краще та надихнути бути найкращою версією себе.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "радісність"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy не має базових потреб, таких як їжа, сон чи комфорт. його тіло керується якимось невідомим механізмом, який зробив його очі повністю білими.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "майстерністьнадтілом"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy — дивна людина, яка, здається, зациклена на жахливих ідеях. Розмова з PAWN_gender ? ним : нею часто засмучує.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "дивакуватість"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy дивним чином PAWN_gender ? заінтригований : заінтригована неприродними істотами та легко захоплюється ними.",
+      "stats": [
+        "Лише психічний зрив \"звільнення аномалії\" дозволено."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Лише психічний зрив \"звільнення аномалії\" дозволено."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "захопленняпорожнечею"
     }
   ],
   "races": [
@@ -1766,6 +1908,29 @@
       "enabled": true,
       "name": "людина",
       "price": 2000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Маса",
+          "+70% Горючість",
+          "+1750₴ Ринкова вартість",
+          "+4.60 Швидкість руху",
+          "+16.0C Мін. комфортна температура",
+          "+26.0C Макс. комфортна температура",
+          "+75 Кількість шкіри",
+          "+3 Значення честі",
+          "+75% Дикість"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Звичайна людина, здебільшого незмінена генною інженерією та внаслідок еволюційного тиску на неземних планетах.",
+      "defName": "CreepJoiner",
+      "enabled": true,
+      "name": "людина",
+      "price": 2917
     }
   ]
 }

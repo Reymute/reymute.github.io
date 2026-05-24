@@ -18,34 +18,22 @@
     "version": "12.0.0"
   },
   {
+    "author": "MrFisse",
+    "name": "Better Ground Textures?",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson та Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Kikohi, Helixien та Sarg",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "legodude17 та Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki та XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
-    "author": "Arlechin",
-    "name": "Vanilla Events Expanded - Український переклад",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf та Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
   },
   {
     "author": "Dubwise",
@@ -78,12 +66,6 @@
     "version": null
   },
   {
-    "author": "MrFisse",
-    "name": "Better Ground Textures?",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -111,13 +93,13 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
+    "version": "1.12.25+b263d046e7f8db787745d2bbb0c944413e79de97"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.3.2.0"
+    "version": "3.4.3.0"
   },
   {
     "author": "Sandy",
@@ -144,22 +126,10 @@
     "version": "1.0.0+a28aaca61d005c2dc5305237523f88e47f53ad60"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Grab Your Tool! (Continued)",
-    "steamId": "2947023388",
-    "version": "1.6.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.5"
-  },
-  {
-    "author": "Bradson та Gordohn",
-    "name": "Xenotype Spawn Control",
-    "steamId": "2891975564",
-    "version": "1.1.2+49d56f6e2064b08bf24583a0f82b3e599731cf9c"
+    "version": "1.6.8"
   },
   {
     "author": "kathanon",
@@ -177,7 +147,7 @@
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
-    "version": "1.6.0.4+83669dbe931cd3de14fb1825998c73af47165abd"
+    "version": "1.6.0.7+4aef6b34cd3098dbd6f7c7ca6b3beba0337866b8"
   },
   {
     "author": "Falconne",
@@ -214,12 +184,6 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
-  },
-  {
-    "author": "bogknight",
-    "name": "Random Start",
-    "steamId": "3257028947",
-    "version": "1.0.0.0"
   },
   {
     "author": "Farxmai2",

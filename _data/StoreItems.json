@@ -3403,12 +3403,6 @@
 		"defname": "Gun_BeamRepeater"
 	},
 	{
-		"abr": "barber'stable",
-		"price": 328,
-		"category": "Різне",
-		"defname": "VHE_TableBarber"
-	},
-	{
 		"abr": "м'ясоведмедя",
 		"price": 3,
 		"category": "М'ясо",
@@ -4319,7 +4313,325 @@
 		"price": 323,
 		"category": "Меблі",
 		"defname": "SpikecoreFloorStar_Medium"
+	},
+	{
+		"abr": "адреналіновесерце",
+		"price": 158,
+		"category": "Гулі",
+		"defname": "AdrenalHeart"
+	},
+	{
+		"abr": "біоферит",
+		"price": 1,
+		"category": "Матеріали",
+		"defname": "Bioferrite"
+	},
+	{
+		"abr": "біоферитнийформувач",
+		"price": 333,
+		"category": "Виробництво",
+		"defname": "BioferriteShaper"
+	},
+	{
+		"abr": "генераторімпульсубіомутації",
+		"price": 1333,
+		"category": "Артефакти",
+		"defname": "BiomutationPulser"
+	},
+	{
+		"abr": "генераторпси-імпульсузуламку(тварини)",
+		"price": 875,
+		"category": "Артефакти",
+		"defname": "ShardAnimalPulser"
+	},
+	{
+		"abr": "детекторруху",
+		"price": 108,
+		"category": "Різне",
+		"defname": "ProximityDetector"
+	},
+	{
+		"abr": "електричнийінгібітор",
+		"price": 222,
+		"category": "Різне",
+		"defname": "ElectricInhibitor"
+	},
+	{
+		"abr": "жахошкіра",
+		"price": 6,
+		"category": "Шкіра",
+		"defname": "Leather_Dread"
+	},
+	{
+		"abr": "запальнагвинтівка",
+		"price": 825,
+		"category": "Стрілецька зброя",
+		"defname": "Gun_HellcatRifle"
+	},
+	{
+		"abr": "збираченергії",
+		"price": 267,
+		"category": "Електроенергія",
+		"defname": "Electroharvester"
+	},
+	{
+		"abr": "збудниклюті",
+		"price": 825,
+		"category": "Різне",
+		"defname": "FrenzyInducer"
+	},
+	{
+		"abr": "золотийкуб",
+		"price": 2000,
+		"category": "Різне",
+		"defname": "GoldenCube"
+	},
+	{
+		"abr": "інгібіторзуламка",
+		"price": 717,
+		"category": "Різне",
+		"defname": "ShardInhibitor"
+	},
+	{
+		"abr": "інсинератор",
+		"price": 883,
+		"category": "Стрілецька зброя",
+		"defname": "Gun_Incinerator"
+	},
+	{
+		"abr": "корозійнесерце",
+		"price": 158,
+		"category": "Гулі",
+		"defname": "CorrosiveHeart"
+	},
+	{
+		"abr": "лабораторіядлясироваток",
+		"price": 1208,
+		"category": "Виробництво",
+		"defname": "SerumCentrifuge"
+	},
+	{
+		"abr": "лабораторнийхалат",
+		"price": 263,
+		"category": "Різне",
+		"defname": "Apparel_LabCoat"
+	},
+	{
+		"abr": "маякзуламку",
+		"price": 708,
+		"category": "Різне",
+		"defname": "ShardBeacon"
+	},
+	{
+		"abr": "обладунокгуля",
+		"price": 142,
+		"category": "Гулі",
+		"defname": "GhoulPlating"
+	},
+	{
+		"abr": "пастказпиломнесмертя",
+		"price": 192,
+		"category": "Захист",
+		"defname": "TrapIED_Deadlife"
+	},
+	{
+		"abr": "підігрівачкрові",
+		"price": 183,
+		"category": "Гулі",
+		"defname": "BloodWarmer"
+	},
+	{
+		"abr": "платформадляутримання",
+		"price": 139,
+		"category": "Різне",
+		"defname": "HoldingPlatform"
+	},
+	{
+		"abr": "поглиначбіофериту",
+		"price": 236,
+		"category": "Електроенергія",
+		"defname": "BioferriteHarvester"
+	},
+	{
+		"abr": "покрученем'ясо",
+		"price": 1,
+		"category": "М'ясо",
+		"defname": "Meat_Twisted"
+	},
+	{
+		"abr": "пригнічувачсну",
+		"price": 908,
+		"category": "Різне",
+		"defname": "SleepSuppressor"
+	},
+	{
+		"abr": "пристрійнесмертя",
+		"price": 742,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_DeadlifePack"
+	},
+	{
+		"abr": "пристрійфальшфеєрівдестабілізації",
+		"price": 134,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_DisruptorFlarePack"
+	},
+	{
+		"abr": "ранець-турель",
+		"price": 392,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_PackTurret"
+	},
+	{
+		"abr": "ритуальнамаска",
+		"price": 101,
+		"category": "Головні убори",
+		"defname": "Apparel_CultistMask"
+	},
+	{
+		"abr": "саджанецьдерева-провісника",
+		"price": 1000,
+		"category": "Різне",
+		"defname": "HarbingerSeed"
+	},
+	{
+		"abr": "серцеметалевоїкрові",
+		"price": 158,
+		"category": "Гулі",
+		"defname": "MetalbloodHeart"
+	},
+	{
+		"abr": "сироваткавоскресіннягуля",
+		"price": 100,
+		"category": "Наркотики",
+		"defname": "GhoulResurrectionSerum"
+	},
+	{
+		"abr": "сироваткаджагернаута",
+		"price": 333,
+		"category": "Наркотики",
+		"defname": "JuggernautSerum"
+	},
+	{
+		"abr": "сироватказалізноїкрові",
+		"price": 333,
+		"category": "Наркотики",
+		"defname": "MetalbloodSerum"
+	},
+	{
+		"abr": "сироватказорупорожнечі",
+		"price": 100,
+		"category": "Наркотики",
+		"defname": "VoidsightSerum"
+	},
+	{
+		"abr": "сироваткаприглушенняпочуттів",
+		"price": 133,
+		"category": "Наркотики",
+		"defname": "MindNumbSerum"
+	},
+	{
+		"abr": "скульптуракубазбруду",
+		"price": 30,
+		"category": "Мистецтво",
+		"defname": "DirtCubeSculpture"
+	},
+	{
+		"abr": "скульптуракубазкаменю",
+		"price": 30,
+		"category": "Мистецтво",
+		"defname": "StoneCubeSculpture"
+	},
+	{
+		"abr": "скульптуракубазпіску",
+		"price": 30,
+		"category": "Мистецтво",
+		"defname": "SandCubeSculpture"
+	},
+	{
+		"abr": "скульптуракубазуламків",
+		"price": 30,
+		"category": "Мистецтво",
+		"defname": "ScrapCubeSculpture"
+	},
+	{
+		"abr": "скульптурапорожнечі",
+		"price": 206,
+		"category": "Мистецтво",
+		"defname": "VoidSculpture"
+	},
+	{
+		"abr": "снаряднесмертя",
+		"price": 92,
+		"category": "Мінометні снаряди",
+		"defname": "Shell_Deadlife"
+	},
+	{
+		"abr": "списбіомутації",
+		"price": 1417,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_BiomutationLance"
+	},
+	{
+		"abr": "списбожевіллязуламка",
+		"price": 883,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_ShardPsychicInsanityLance"
+	},
+	{
+		"abr": "списприголомшеннязуламка",
+		"price": 850,
+		"category": "Додаткове спорядження",
+		"defname": "Apparel_ShardPsychicShockLance"
+	},
+	{
+		"abr": "уламок",
+		"price": 667,
+		"category": "Виробництво",
+		"defname": "Shard"
+	},
+	{
+		"abr": "унікальнапекельнарушниця",
+		"price": 825,
+		"category": "Unique weapons",
+		"defname": "Gun_HellcatRifle_Unique"
+	},
+	{
+		"abr": "фоліант",
+		"price": 417,
+		"category": "Книги",
+		"defname": "Tome"
+	},
+	{
+		"abr": "фрагментмоноліту",
+		"price": 3333,
+		"category": "Різне",
+		"defname": "MonolithFragment"
+	},
+	{
+		"abr": "хребетревенанта",
+		"price": 1667,
+		"category": "Різне",
+		"defname": "RevenantSpine"
+	},
+	{
+		"abr": "хребціревенанта",
+		"price": 3158,
+		"category": "Біонічні",
+		"defname": "RevenantVertebrae"
+	},
+	{
+		"abr": "церемоніальнийкаптур",
+		"price": 91,
+		"category": "Головні убори",
+		"defname": "Apparel_CeremonialCultistMask"
+	},
+	{
+		"abr": "шипигуля",
+		"price": 80,
+		"category": "Гулі",
+		"defname": "GhoulBarbs"
 	}
 	],
-	"total": 720
+	"total": 773
 }
