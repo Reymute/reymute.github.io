@@ -6,7 +6,7 @@ description: Перероблена версія Toolkit's item list з підт
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'rapteell'
+github_username: 'reymute'
 
 # Item list settings
 #
