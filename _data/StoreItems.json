@@ -67,7 +67,7 @@
 		"defname": "PsychiteTea"
 	},
 	{
-		"abr": "порошокпсихіту",
+		"abr": "яйо",
 		"price": 35,
 		"category": "Наркотики",
 		"defname": "Yayo"
@@ -83,12 +83,6 @@
 		"price": 58,
 		"category": "Наркотики",
 		"defname": "WakeUp"
-	},
-	{
-		"abr": "нейроформерпси-зв'язку",
-		"price": 4333,
-		"category": "Архотехнології",
-		"defname": "PsychicAmplifier"
 	},
 	{
 		"abr": "урна",
@@ -217,7 +211,7 @@
 		"defname": "Table3x3c"
 	},
 	{
-		"abr": "горщикдляквітів",
+		"abr": "горщикдлярослин",
 		"price": 68,
 		"category": "Меблі",
 		"defname": "PlantPot"
@@ -277,13 +271,13 @@
 		"defname": "Dresser"
 	},
 	{
-		"abr": "стовпчикдляжбурлянняпідков",
+		"abr": "стовпдлякиданняпідків",
 		"price": 34,
 		"category": "Дозвілля",
 		"defname": "HorseshoesPin"
 	},
 	{
-		"abr": "кільцедляжбурляннякаміння",
+		"abr": "кільцедлякиданнякаменів",
 		"price": 67,
 		"category": "Дозвілля",
 		"defname": "HoopstoneRing"
@@ -313,7 +307,7 @@
 		"defname": "BilliardsTable"
 	},
 	{
-		"abr": "ламповийтелевізор",
+		"abr": "епт-телевізор",
 		"price": 525,
 		"category": "Дозвілля",
 		"defname": "TubeTelevision"
@@ -337,7 +331,7 @@
 		"defname": "Telescope"
 	},
 	{
-		"abr": "mechnode",
+		"abr": "вузолмеханоїдів",
 		"price": 333,
 		"category": "Особливе",
 		"defname": "Gloomlight"
@@ -355,13 +349,13 @@
 		"defname": "OrbitalTradeBeacon"
 	},
 	{
-		"abr": "вогнегасник",
+		"abr": "пристрійзпротипожежноюпіною",
 		"price": 300,
 		"category": "Різне",
 		"defname": "FirefoamPopper"
 	},
 	{
-		"abr": "мульти-аналізатор",
+		"abr": "мультианалізатор",
 		"price": 1700,
 		"category": "Різне",
 		"defname": "MultiAnalyzer"
@@ -463,7 +457,7 @@
 		"defname": "Brewery"
 	},
 	{
-		"abr": "хімлабораторія",
+		"abr": "хімічналабораторія",
 		"price": 742,
 		"category": "Виробництво",
 		"defname": "DrugLab"
@@ -475,7 +469,7 @@
 		"defname": "ElectricSmelter"
 	},
 	{
-		"abr": "простийстілдослідника",
+		"abr": "простийдослідницькийстіл",
 		"price": 350,
 		"category": "Виробництво",
 		"defname": "SimpleResearchBench"
@@ -517,7 +511,7 @@
 		"defname": "TrapIED_EMP"
 	},
 	{
-		"abr": "димовапастка",
+		"abr": "свпдимовапастка",
 		"price": 192,
 		"category": "Захист",
 		"defname": "TrapIED_Smoke"
@@ -542,7 +536,7 @@
 	},
 	{
 		"abr": "міномет",
-		"price": 1500,
+		"price": 1058,
 		"category": "Захист",
 		"defname": "Turret_Mortar"
 	},
@@ -577,13 +571,13 @@
 		"defname": "Heater"
 	},
 	{
-		"abr": "генераторпси-імпульсу(тварини)",
+		"abr": "психічнийімпульсатортварин",
 		"price": 1167,
 		"category": "Артефакти",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
-		"abr": "генераторзаспокоючогопси-імпульсу",
+		"abr": "психічнийімпульсаторзаспокоєння",
 		"price": 1000,
 		"category": "Артефакти",
 		"defname": "PsychicSoothePulser"
@@ -595,8 +589,8 @@
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "лікувальнасироватка",
-		"price": 2167,
+		"abr": "мех-сироватказцілення",
+		"price": 2000,
 		"category": "Наркотики",
 		"defname": "MechSerumHealer"
 	},
@@ -709,7 +703,7 @@
 		"defname": "InsectJelly"
 	},
 	{
-		"abr": "skull",
+		"abr": "череп",
 		"price": 8,
 		"category": "Різне",
 		"defname": "Skull"
@@ -769,7 +763,7 @@
 		"defname": "EggCassowaryFertilized"
 	},
 	{
-		"abr": "cassowaryegg(unfert.)",
+		"abr": "яйцеказуара(незапл.)",
 		"price": 23,
 		"category": "Яйця (незапл.)",
 		"defname": "EggCassowaryUnfertilized"
@@ -835,31 +829,31 @@
 		"defname": "EggGooseFertilized"
 	},
 	{
-		"abr": "лікувальнітрави",
+		"abr": "лікарськірослини",
 		"price": 17,
 		"category": "Ліки",
 		"defname": "MedicineHerbal"
 	},
 	{
-		"abr": "медикаменти",
+		"abr": "сучасніліки",
 		"price": 30,
 		"category": "Ліки",
 		"defname": "MedicineIndustrial"
 	},
 	{
-		"abr": "передовімедикаменти",
+		"abr": "надсучасніліки",
 		"price": 83,
 		"category": "Ліки",
 		"defname": "MedicineUltratech"
 	},
 	{
-		"abr": "компоненти",
+		"abr": "компонент",
 		"price": 53,
 		"category": "Виробництво",
 		"defname": "ComponentIndustrial"
 	},
 	{
-		"abr": "просунутікомпоненти",
+		"abr": "передовийкомпонент",
 		"price": 333,
 		"category": "Виробництво",
 		"defname": "ComponentSpacer"
@@ -871,7 +865,7 @@
 		"defname": "Neutroamine"
 	},
 	{
-		"abr": "хімічнепаливо",
+		"abr": "хімпаливо",
 		"price": 4,
 		"category": "Виробництво",
 		"defname": "Chemfuel"
@@ -1027,7 +1021,7 @@
 		"defname": "Cloth"
 	},
 	{
-		"abr": "синтканина",
+		"abr": "синтетика",
 		"price": 7,
 		"category": "Текстиль",
 		"defname": "Synthread"
@@ -1045,31 +1039,31 @@
 		"defname": "Hyperweave"
 	},
 	{
-		"abr": "овечашерсть",
+		"abr": "овечавовна",
 		"price": 4,
 		"category": "Вовна",
 		"defname": "WoolSheep"
 	},
 	{
-		"abr": "шерстьальпаки",
+		"abr": "вовнаальпаки",
 		"price": 6,
 		"category": "Вовна",
 		"defname": "WoolAlpaca"
 	},
 	{
-		"abr": "шерстьгігантськоголінивця",
+		"abr": "вовнамегалінивця",
 		"price": 4,
 		"category": "Вовна",
 		"defname": "WoolMegasloth"
 	},
 	{
-		"abr": "шерстьмуффало",
+		"abr": "вовнамуффало",
 		"price": 4,
 		"category": "Вовна",
 		"defname": "WoolMuffalo"
 	},
 	{
-		"abr": "шерстьбізона",
+		"abr": "вовнабізона",
 		"price": 4,
 		"category": "Вовна",
 		"defname": "WoolBison"
@@ -1153,7 +1147,7 @@
 		"defname": "Leather_Chinchilla"
 	},
 	{
-		"abr": "лисичехутро",
+		"abr": "хутролисиці",
 		"price": 6,
 		"category": "Шкіра",
 		"defname": "Leather_Fox"
@@ -1213,7 +1207,7 @@
 		"defname": "Apparel_BowlerHat"
 	},
 	{
-		"abr": "племіннийкапелюх",
+		"abr": "племіннийголовнийубір",
 		"price": 203,
 		"category": "Головні убори",
 		"defname": "Apparel_TribalHeaddress"
@@ -1249,13 +1243,13 @@
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
-		"abr": "силовийшолом",
+		"abr": "шоломдесантника",
 		"price": 1058,
 		"category": "Головні убори",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
-		"abr": "розвідувальнийшолом",
+		"abr": "шоломрозвідника",
 		"price": 875,
 		"category": "Головні убори",
 		"defname": "Apparel_ArmorHelmetRecon"
@@ -1291,25 +1285,25 @@
 		"defname": "Apparel_FirefoampopPack"
 	},
 	{
-		"abr": "шоковийспис",
+		"abr": "психічнийшоковийспис",
 		"price": 917,
 		"category": "Додаткове спорядження",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
-		"abr": "списбожевілля",
+		"abr": "психічнийсписбожевілля",
 		"price": 1083,
 		"category": "Додаткове спорядження",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
 	{
-		"abr": "туніка",
+		"abr": "племіннийодяг",
 		"price": 211,
 		"category": "Різне",
 		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "пуховик",
+		"abr": "парка",
 		"price": 315,
 		"category": "Різне",
 		"defname": "Apparel_Parka"
@@ -1369,25 +1363,19 @@
 		"defname": "Apparel_FlakJacket"
 	},
 	{
-		"abr": "силоваброня",
+		"abr": "бронядесантника",
 		"price": 3392,
 		"category": "Броня",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
-		"abr": "розвідувальнаброня",
+		"abr": "бронярозвідника",
 		"price": 2567,
 		"category": "Броня",
 		"defname": "Apparel_ArmorRecon"
 	},
 	{
-		"abr": "накидка",
-		"price": 367,
-		"category": "Благородний одяг",
-		"defname": "Apparel_Cape"
-	},
-	{
-		"abr": "robe",
+		"abr": "мантія",
 		"price": 297,
 		"category": "Різне",
 		"defname": "Apparel_Robe"
@@ -1633,7 +1621,7 @@
 		"defname": "Megascarab"
 	},
 	{
-		"abr": "спелопеда",
+		"abr": "спелопед",
 		"price": 333,
 		"category": "Тварини",
 		"defname": "Spelopede"
@@ -1724,7 +1712,7 @@
 	},
 	{
 		"abr": "капібара",
-		"price": 250,
+		"price": 150,
 		"category": "Тварини",
 		"defname": "Capybara"
 	},
@@ -1796,19 +1784,19 @@
 	},
 	{
 		"abr": "архотехнічнеоко",
-		"price": 6000,
+		"price": 4667,
 		"category": "Архотехнології",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "архотехнічнарука",
-		"price": 6000,
+		"price": 4667,
 		"category": "Архотехнології",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "архотехнічнанога",
-		"price": 6000,
+		"price": 4667,
 		"category": "Архотехнології",
 		"defname": "ArchotechLeg"
 	},
@@ -1993,13 +1981,13 @@
 		"defname": "Gun_Revolver"
 	},
 	{
-		"abr": "пістолет",
+		"abr": "автоматичнийпістолет",
 		"price": 232,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "автоматичнийпістолет",
+		"abr": "пістолет-кулемет",
 		"price": 367,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_MachinePistol"
@@ -2029,7 +2017,7 @@
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "дробовик",
+		"abr": "помповийдробовик",
 		"price": 425,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_PumpShotgun"
@@ -2041,7 +2029,7 @@
 		"defname": "Gun_ChainShotgun"
 	},
 	{
-		"abr": "пістолет-кулемет",
+		"abr": "важкийпістолет-кулемет",
 		"price": 592,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_HeavySMG"
@@ -2072,7 +2060,7 @@
 	},
 	{
 		"abr": "зтроєнаракетниця",
-		"price": 1667,
+		"price": 2000,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_TripleRocket"
 	},
@@ -2132,7 +2120,7 @@
 	},
 	{
 		"abr": "енергоспис",
-		"price": 2258,
+		"price": 2500,
 		"category": "Стрілецька зброя",
 		"defname": "Gun_ChargeLance"
 	},
@@ -2155,1252 +2143,340 @@
 		"defname": "TornadoGenerator"
 	},
 	{
-		"abr": "детоксикуючалегеня",
-		"price": 1542,
-		"category": "Біонічні",
-		"defname": "DetoxifierLung"
-	},
-	{
-		"abr": "детоксикуючанирка",
-		"price": 1800,
-		"category": "Біонічні",
-		"defname": "DetoxifierKidney"
-	},
-	{
-		"abr": "мехлінк",
-		"price": 833,
-		"category": "Медтехнології",
-		"defname": "Mechlink"
-	},
-	{
-		"abr": "стандартнийсаблінк",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "ControlSublink"
-	},
-	{
-		"abr": "просунутийсаблінк",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "ControlSublinkHigh"
-	},
-	{
-		"abr": "дистанційнийремонт",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "RemoteRepairer"
-	},
-	{
-		"abr": "процесоргестатора",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "MechFormfeeder"
-	},
-	{
-		"abr": "дистанційнийщит",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "RemoteShielder"
-	},
-	{
-		"abr": "покращенняремонту",
-		"price": 2000,
-		"category": "Медтехнології",
-		"defname": "RepairProbe"
-	},
-	{
-		"abr": "труналетаргії",
-		"price": 492,
-		"category": "Різне",
-		"defname": "DeathrestCasket"
-	},
-	{
-		"abr": "гемопомпа",
-		"price": 600,
-		"category": "Різне",
-		"defname": "Hemopump"
-	},
-	{
-		"abr": "гемогеннийпідсилювач",
-		"price": 917,
-		"category": "Різне",
-		"defname": "HemogenAmplifier"
-	},
-	{
-		"abr": "глюкозиднапомпа",
-		"price": 858,
-		"category": "Різне",
-		"defname": "GlucosoidPump"
-	},
-	{
-		"abr": "психорідиннапомпа",
-		"price": 2042,
-		"category": "Різне",
-		"defname": "PsychofluidPump"
-	},
-	{
-		"abr": "прискорювачлетаргії",
-		"price": 1183,
-		"category": "Різне",
-		"defname": "DeathrestAccelerator"
-	},
-	{
-		"abr": "коробказіграшками",
-		"price": 274,
-		"category": "Меблі",
-		"defname": "ToyBox"
-	},
-	{
-		"abr": "шкільнапарта",
-		"price": 104,
-		"category": "Меблі",
-		"defname": "SchoolDesk"
-	},
-	{
-		"abr": "дитячаприкраса",
-		"price": 205,
-		"category": "Меблі",
-		"defname": "BabyDecoration"
-	},
-	{
-		"abr": "ліжечко",
-		"price": 86,
-		"category": "Меблі",
-		"defname": "Crib"
-	},
-	{
-		"abr": "класнадошка",
-		"price": 56,
-		"category": "Меблі",
-		"defname": "Blackboard"
-	},
-	{
-		"abr": "банкгенів",
-		"price": 242,
-		"category": "Виробництво",
-		"defname": "GeneBank"
-	},
-	{
-		"abr": "помпадлязабруднень",
-		"price": 315,
-		"category": "Різне",
-		"defname": "PollutionPump"
-	},
-	{
-		"abr": "кривавийсмолоскип",
-		"price": 41,
-		"category": "Різне",
-		"defname": "SanguphageMeetingTorch"
-	},
-	{
-		"abr": "підсилювачмеханоїдів",
-		"price": 575,
-		"category": "Різне",
-		"defname": "MechBooster"
-	},
-	{
-		"abr": "токсичнапастка",
-		"price": 192,
-		"category": "Захист",
-		"defname": "TrapIED_ToxGas"
-	},
-	{
-		"abr": "декодерсуб'ядра",
-		"price": 525,
-		"category": "Виробництво",
-		"defname": "SubcoreEncoder"
-	},
-	{
-		"abr": "дитячастрава",
-		"price": 2,
-		"category": "Їжа",
-		"defname": "BabyFood"
-	},
-	{
-		"abr": "гемопак",
-		"price": 8,
-		"category": "Їжа",
-		"defname": "HemogenPack"
-	},
-	{
-		"abr": "токсикартопля",
-		"price": 1,
-		"category": "Рослинного походження",
-		"defname": "RawToxipotato"
-	},
-	{
-		"abr": "базовесуб'ядро",
-		"price": 333,
-		"category": "Виробництво",
-		"defname": "SubcoreBasic"
-	},
-	{
-		"abr": "просунутесуб'ядро",
-		"price": 500,
-		"category": "Виробництво",
-		"defname": "SubcoreRegular"
-	},
-	{
-		"abr": "високотехнологічнесуб'ядро",
-		"price": 1667,
-		"category": "Виробництво",
-		"defname": "SubcoreHigh"
-	},
-	{
-		"abr": "сигнальнийчип",
-		"price": 833,
-		"category": "Виробництво",
-		"defname": "SignalChip"
-	},
-	{
-		"abr": "чипконцентраціїенергії",
-		"price": 1667,
-		"category": "Виробництво",
-		"defname": "PowerfocusChip"
-	},
-	{
-		"abr": "наноструктурнийчип",
-		"price": 2500,
-		"category": "Виробництво",
-		"defname": "NanostructuringChip"
-	},
-	{
-		"abr": "сироваткамісткостілетаргії",
-		"price": 1667,
-		"category": "Наркотики",
-		"defname": "DeathrestCapacitySerum"
-	},
-	{
-		"abr": "токсичнийснаряд",
-		"price": 92,
-		"category": "Мінометні снаряди",
-		"defname": "Shell_Toxic"
-	},
-	{
-		"abr": "генопак",
-		"price": -10,
-		"category": "Різне",
-		"defname": "Genepack"
-	},
-	{
-		"abr": "ксенозародок",
-		"price": 33,
-		"category": "Різне",
-		"defname": "Xenogerm"
-	},
-	{
-		"abr": "архітнакапсула",
-		"price": 3000,
-		"category": "Різне",
-		"defname": "ArchiteCapsule"
-	},
-	{
-		"abr": "транспондер",
-		"price": 333,
-		"category": "Різне",
-		"defname": "MechanoidTransponder"
-	},
-	{
-		"abr": "яйцеклітина",
-		"price": 83,
-		"category": "Різне",
-		"defname": "HumanOvum"
-	},
-	{
-		"abr": "ембріон",
-		"price": 83,
-		"category": "Різне",
-		"defname": "HumanEmbryo"
-	},
-	{
-		"abr": "дитячийкомбінезон",
-		"price": 112,
-		"category": "Різне",
-		"defname": "Apparel_KidRomper"
-	},
-	{
-		"abr": "дитячафутболка",
-		"price": 74,
-		"category": "Різне",
-		"defname": "Apparel_KidShirt"
-	},
-	{
-		"abr": "дитячіштани",
-		"price": 74,
-		"category": "Різне",
-		"defname": "Apparel_KidPants"
-	},
-	{
-		"abr": "дитячакуртка",
-		"price": 172,
-		"category": "Різне",
-		"defname": "Apparel_KidParka"
-	},
-	{
-		"abr": "дитячийплеміннийодяг",
-		"price": 108,
-		"category": "Різне",
-		"defname": "Apparel_KidTribal"
-	},
-	{
-		"abr": "дитячийшолом",
-		"price": 79,
-		"category": "Головні убори",
-		"defname": "Apparel_KidHelmet"
-	},
-	{
-		"abr": "безпровіднагарнітура",
-		"price": 383,
-		"category": "Головні убори",
-		"defname": "Apparel_AirwireHeadset"
-	},
-	{
-		"abr": "масивнагарнітура",
-		"price": 600,
-		"category": "Головні убори",
-		"defname": "Apparel_ArrayHeadset"
-	},
-	{
-		"abr": "інтегрованагарнітура",
-		"price": 4058,
-		"category": "Головні убори",
-		"defname": "Apparel_IntegratorHeadset"
-	},
-	{
-		"abr": "шоломмех-командира",
-		"price": 2150,
-		"category": "Головні убори",
-		"defname": "Apparel_ArmorHelmetMechCommander"
-	},
-	{
-		"abr": "шоломмех-лорда",
-		"price": 8892,
-		"category": "Головні убори",
-		"defname": "Apparel_ArmorHelmetMechlordHelmet"
-	},
-	{
-		"abr": "протигаз",
-		"price": 176,
-		"category": "Головні убори",
-		"defname": "Apparel_GasMask"
-	},
-	{
-		"abr": "контрольнийрюкзак",
-		"price": 658,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_PackControl"
-	},
-	{
-		"abr": "рюкзакпропускноїздатності",
-		"price": 2275,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_PackBandwidth"
-	},
-	{
-		"abr": "токсикологічнийрюкзак",
-		"price": 241,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_PackTox"
-	},
-	{
-		"abr": "костюммех-лорда",
-		"price": 11692,
-		"category": "Броня",
-		"defname": "Apparel_MechlordSuit"
-	},
-	{
-		"abr": "важкийпатронташ",
-		"price": 271,
-		"category": "Різне",
-		"defname": "Apparel_Bandolier"
-	},
-	{
-		"abr": "стулка",
-		"price": 89,
-		"category": "Різне",
-		"defname": "Apparel_Sash"
-	},
-	{
-		"abr": "паростокдереваполюкса",
-		"price": 2000,
-		"category": "Різне",
-		"defname": "PoluxSeed"
-	},
-	{
-		"abr": "токсщур",
-		"price": 58,
-		"category": "Тварини",
-		"defname": "WasteRat"
-	},
-	{
-		"abr": "токсалопа",
-		"price": 583,
-		"category": "Тварини",
-		"defname": "Toxalope"
-	},
-	{
-		"abr": "токсичнапусковаустановка",
-		"price": 633,
-		"category": "Стрілецька зброя",
-		"defname": "Gun_ToxbombLauncher"
-	},
-	{
-		"abr": "токсичнігранати",
-		"price": 525,
-		"category": "Гранати",
-		"defname": "Weapon_GrenadeTox"
-	},
-	{
-		"abr": "вогнянийлук",
-		"price": 75,
-		"category": "Стрілецька зброя",
-		"defname": "Flamebow"
-	},
-	{
-		"abr": "гамма-лазер",
-		"price": 1875,
-		"category": "Стрілецька зброя",
-		"defname": "Gun_BeamGraser"
-	},
-	{
-		"abr": "мапа",
-		"price": 300,
-		"category": "Книги",
-		"defname": "Map"
-	},
-	{
-		"abr": "псилогриб",
-		"price": 17,
-		"category": "Наркотики",
-		"defname": "Drug_Psilocap"
-	},
-	{
-		"abr": "помічникпілота",
-		"price": 975,
-		"category": "Біонічні",
-		"defname": "PilotAssistant"
-	},
-	{
-		"abr": "статуя",
-		"price": 342,
+		"abr": "скульптурастраху",
+		"price": 517,
 		"category": "Мистецтво",
-		"defname": "Statue"
+		"defname": "SculptureTerror"
 	},
 	{
-		"abr": "підставкадлякостюму",
-		"price": 119,
+		"abr": "прискорювачсну",
+		"price": 458,
+		"category": "Різне",
+		"defname": "SleepAccelerator"
+	},
+	{
+		"abr": "біоскульптор",
+		"price": 758,
+		"category": "Різне",
+		"defname": "BiosculpterPod"
+	},
+	{
+		"abr": "нейроннийстимулятор",
+		"price": 408,
+		"category": "Різне",
+		"defname": "NeuralSupercharger"
+	},
+	{
+		"abr": "різдвянедерево",
+		"price": 263,
+		"category": "Різне",
+		"defname": "ChristmasTree"
+	},
+	{
+		"abr": "канібальськийбенкет",
+		"price": 220,
+		"category": "Різне",
+		"defname": "CannibalPlatter"
+	},
+	{
+		"abr": "опудало",
+		"price": 178,
+		"category": "Різне",
+		"defname": "Effigy"
+	},
+	{
+		"abr": "жертовнийпрапор",
+		"price": 198,
+		"category": "Різне",
+		"defname": "SacrificialFlag"
+	},
+	{
+		"abr": "похоронневогнище",
+		"price": 230,
+		"category": "Різне",
+		"defname": "Pyre"
+	},
+	{
+		"abr": "бонг",
+		"price": 517,
+		"category": "Різне",
+		"defname": "Burnbong"
+	},
+	{
+		"abr": "кадильнийхрам",
+		"price": 272,
+		"category": "Різне",
+		"defname": "IncenseShrine"
+	},
+	{
+		"abr": "кафедра",
+		"price": 197,
+		"category": "Різне",
+		"defname": "Lectern"
+	},
+	{
+		"abr": "стілперукаря",
+		"price": 375,
 		"category": "Меблі",
-		"defname": "Building_OutfitStand"
+		"defname": "StylingStation"
 	},
 	{
-		"abr": "підставкадлядитячогокостюму",
+		"abr": "підвішенаклітка",
+		"price": 210,
+		"category": "Різне",
+		"defname": "GibbetCage"
+	},
+	{
+		"abr": "диско-куля",
+		"price": 154,
+		"category": "Різне",
+		"defname": "LightBall"
+	},
+	{
+		"abr": "динамік",
+		"price": 367,
+		"category": "Різне",
+		"defname": "Loudspeaker"
+	},
+	{
+		"abr": "барабан",
+		"price": 205,
+		"category": "Дозвілля",
+		"defname": "Drum"
+	},
+	{
+		"abr": "лавка",
+		"price": 350,
+		"category": "Меблі",
+		"defname": "Pew"
+	},
+	{
+		"abr": "молитовнийкилимок",
+		"price": 281,
+		"category": "Меблі",
+		"defname": "KneelSheet"
+	},
+	{
+		"abr": "молитовнаподушка",
+		"price": 98,
+		"category": "Меблі",
+		"defname": "KneelPillow"
+	},
+	{
+		"abr": "горщикдлябонсаю",
+		"price": 82,
+		"category": "Меблі",
+		"defname": "PlantPot_Bonsai"
+	},
+	{
+		"abr": "ліжко-плита",
 		"price": 102,
 		"category": "Меблі",
-		"defname": "Building_KidOutfitStand"
+		"defname": "SlabBed"
 	},
 	{
-		"abr": "гравдвигун",
-		"price": 3333,
+		"abr": "двоспальнеліжко-плита",
+		"price": 288,
+		"category": "Меблі",
+		"defname": "SlabDoubleBed"
+	},
+	{
+		"abr": "черепнасписі",
+		"price": 101,
 		"category": "Різне",
-		"defname": "GravEngine"
+		"defname": "Skullspike"
 	},
 	{
-		"abr": "розширювачгравполя",
-		"price": 2683,
-		"category": "Різне",
-		"defname": "GravFieldExtender"
-	},
-	{
-		"abr": "пультпілота",
-		"price": 617,
-		"category": "Різне",
-		"defname": "PilotConsole"
-	},
-	{
-		"abr": "малийрушій",
-		"price": 842,
-		"category": "Різне",
-		"defname": "SmallThruster"
-	},
-	{
-		"abr": "великийрушій",
-		"price": 1267,
-		"category": "Різне",
-		"defname": "LargeThruster"
-	},
-	{
-		"abr": "оптимізаторпалива",
-		"price": 2583,
-		"category": "Різне",
-		"defname": "FuelOptimizer"
-	},
-	{
-		"abr": "глушниксигналу",
-		"price": 4767,
-		"category": "Різне",
-		"defname": "SignalJammer"
-	},
-	{
-		"abr": "елементживленнягравядра",
-		"price": 3300,
-		"category": "Різне",
-		"defname": "GravcorePowerCell"
-	},
-	{
-		"abr": "ядросубперсонипілота",
-		"price": 1625,
-		"category": "Різне",
-		"defname": "PilotSubpersonaCore"
-	},
-	{
-		"abr": "генераторщитагравкорабля",
-		"price": 3833,
-		"category": "Різне",
-		"defname": "GravshipShieldGenerator"
-	},
-	{
-		"abr": "старашахтарськавибухівка",
-		"price": 18,
-		"category": "Різне",
-		"defname": "AncientMiningCharge"
-	},
-	{
-		"abr": "кисневийнасос",
-		"price": 333,
-		"category": "Різне",
-		"defname": "OxygenPump"
-	},
-	{
-		"abr": "пастказдроном-мисливцем",
-		"price": 302,
-		"category": "Захист",
-		"defname": "HunterDroneTrap"
-	},
-	{
-		"abr": "пастказдронами-осами",
-		"price": 133,
-		"category": "Захист",
-		"defname": "WaspDroneTrap"
-	},
-	{
-		"abr": "ікломастодонта",
-		"price": 200,
-		"category": "Різне",
-		"defname": "MastodonTusk"
-	},
-	{
-		"abr": "рігальфа-трумбо",
-		"price": 5000,
-		"category": "Різне",
-		"defname": "AlphaThrumboHorn"
-	},
-	{
-		"abr": "каталізаторсвідомості",
-		"price": 667,
-		"category": "Наркотики",
-		"defname": "SentienceCatalyst"
-	},
-	{
-		"abr": "яйцеварана(запл.)",
-		"price": 43,
-		"category": "Яйця (запл.)",
-		"defname": "EggMonitorLizardFertilized"
-	},
-	{
-		"abr": "яйцеварана(незапл.)",
-		"price": 15,
-		"category": "Яйця (незапл.)",
-		"defname": "EggMonitorLizardUnfertilized"
-	},
-	{
-		"abr": "яйцефламінго(запл.)",
-		"price": 43,
-		"category": "Яйця (запл.)",
-		"defname": "EggFlamingoFertilized"
-	},
-	{
-		"abr": "яйцефламінго(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggFlamingoUnfertilized"
-	},
-	{
-		"abr": "яйцечаплі(запл.)",
-		"price": 30,
-		"category": "Яйця (запл.)",
-		"defname": "EggHeronFertilized"
-	},
-	{
-		"abr": "яйцечаплі(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggHeronUnfertilized"
-	},
-	{
-		"abr": "яйцелебедя(запл.)",
-		"price": 25,
-		"category": "Яйця (запл.)",
-		"defname": "EggSwanFertilized"
-	},
-	{
-		"abr": "яйцелебедя(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggSwanUnfertilized"
-	},
-	{
-		"abr": "яйцегоробця(запл.)",
-		"price": 18,
-		"category": "Яйця (запл.)",
-		"defname": "EggSparrowFertilized"
-	},
-	{
-		"abr": "яйцегоробця(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggSparrowUnfertilized"
-	},
-	{
-		"abr": "яйцеворони(запл.)",
-		"price": 18,
-		"category": "Яйця (запл.)",
-		"defname": "EggCrowFertilized"
-	},
-	{
-		"abr": "яйцеворони(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggCrowUnfertilized"
-	},
-	{
-		"abr": "яйцеблакитника(запл.)",
-		"price": 18,
-		"category": "Яйця (запл.)",
-		"defname": "EggBluebirdFertilized"
-	},
-	{
-		"abr": "яйцеблакитника(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggBluebirdUnfertilized"
-	},
-	{
-		"abr": "яйцеперепілки(запл.)",
-		"price": 18,
-		"category": "Яйця (запл.)",
-		"defname": "EggQuailFertilized"
-	},
-	{
-		"abr": "яйцеперепілки(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggQuailUnfertilized"
-	},
-	{
-		"abr": "яйцепапугиара(запл.)",
-		"price": 18,
-		"category": "Яйця (запл.)",
-		"defname": "EggMacawFertilized"
-	},
-	{
-		"abr": "яйцепапугиара(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggMacawUnfertilized"
-	},
-	{
-		"abr": "яйцепавича(запл.)",
-		"price": 43,
-		"category": "Яйця (запл.)",
-		"defname": "EggPeacockFertilized"
-	},
-	{
-		"abr": "яйцепавича(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggPeacockUnfertilized"
-	},
-	{
-		"abr": "яйцестерв'ятника(запл.)",
-		"price": 27,
-		"category": "Яйця (запл.)",
-		"defname": "EggVultureFertilized"
-	},
-	{
-		"abr": "яйцестерв'ятника(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggVultureUnfertilized"
-	},
-	{
-		"abr": "яйцепінгвіна(запл.)",
-		"price": 42,
-		"category": "Яйця (запл.)",
-		"defname": "EggPenguinFertilized"
-	},
-	{
-		"abr": "яйцепінгвіна(незапл.)",
-		"price": 12,
-		"category": "Яйця (незапл.)",
-		"defname": "EggPenguinUnfertilized"
-	},
-	{
-		"abr": "яйцеморськоїчерепахи(запл.)",
-		"price": 33,
-		"category": "Яйця (запл.)",
-		"defname": "EggSeaTurtleFertilized"
-	},
-	{
-		"abr": "яйцеморськоїчерепахи(незапл.)",
-		"price": 15,
-		"category": "Яйця (незапл.)",
-		"defname": "EggSeaTurtleUnfertilized"
-	},
-	{
-		"abr": "яйцеалігатора(запл.)",
-		"price": 33,
-		"category": "Яйця (запл.)",
-		"defname": "EggAlligatorFertilized"
-	},
-	{
-		"abr": "яйцеалігатора(незапл.)",
-		"price": 28,
-		"category": "Яйця (незапл.)",
-		"defname": "EggAlligatorUnfertilized"
-	},
-	{
-		"abr": "шерстьмастодонта",
-		"price": 4,
-		"category": "Вовна",
-		"defname": "WoolMastodon"
-	},
-	{
-		"abr": "шерстьвівцебика",
-		"price": 4,
-		"category": "Вовна",
-		"defname": "WoolMuskox"
-	},
-	{
-		"abr": "лосось",
-		"price": 11,
-		"category": "Риба",
-		"defname": "Fish_Salmon"
-	},
-	{
-		"abr": "окунь",
-		"price": 11,
-		"category": "Риба",
-		"defname": "Fish_Bass"
-	},
-	{
-		"abr": "тілапія",
-		"price": 11,
-		"category": "Риба",
-		"defname": "Fish_Tilapia"
-	},
-	{
-		"abr": "тріска",
-		"price": 11,
-		"category": "Риба",
-		"defname": "Fish_Cod"
-	},
-	{
-		"abr": "луфар",
-		"price": 11,
-		"category": "Риба",
-		"defname": "Fish_Bluefish"
-	},
-	{
-		"abr": "гуппі",
-		"price": 42,
-		"category": "Риба",
-		"defname": "Fish_Guppy"
-	},
-	{
-		"abr": "морознариба",
-		"price": 57,
-		"category": "Риба",
-		"defname": "Fish_Frostfish"
-	},
-	{
-		"abr": "сом",
-		"price": 43,
-		"category": "Риба",
-		"defname": "Fish_Catfish"
-	},
-	{
-		"abr": "піранья",
-		"price": 67,
-		"category": "Риба",
-		"defname": "Fish_Piranha"
-	},
-	{
-		"abr": "катран",
-		"price": 21,
-		"category": "Риба",
-		"defname": "Fish_Dogfish"
-	},
-	{
-		"abr": "марлин",
-		"price": 47,
-		"category": "Риба",
-		"defname": "Fish_Marlin"
-	},
-	{
-		"abr": "тунець",
-		"price": 53,
-		"category": "Риба",
-		"defname": "Fish_Tuna"
-	},
-	{
-		"abr": "камбала",
-		"price": 37,
-		"category": "Риба",
-		"defname": "Fish_Flounder"
-	},
-	{
-		"abr": "токсриба",
-		"price": 2,
-		"category": "Риба",
-		"defname": "Fish_Toxfish"
-	},
-	{
-		"abr": "гравядро",
-		"price": 2083,
-		"category": "Виробництво",
-		"defname": "Gravcore"
-	},
-	{
-		"abr": "гравлайтовапанель",
-		"price": 7,
-		"category": "Матеріали",
-		"defname": "GravlitePanel"
-	},
-	{
-		"abr": "рушійшатлу",
-		"price": 4167,
-		"category": "Виробництво",
-		"defname": "ShuttleEngine"
-	},
-	{
-		"abr": "обсидіан",
-		"price": 8,
-		"category": "Матеріали",
-		"defname": "Obsidian"
-	},
-	{
-		"abr": "шкірамастодонта",
-		"price": 5,
-		"category": "Шкіра",
-		"defname": "Leather_Mastodon"
-	},
-	{
-		"abr": "шкіраморськогокотика",
-		"price": 7,
-		"category": "Шкіра",
-		"defname": "Leather_Sealskin"
-	},
-	{
-		"abr": "трумбогрива",
-		"price": 33,
-		"category": "Шкіра",
-		"defname": "Leather_AlphaThrumbo"
-	},
-	{
-		"abr": "хутронорки",
-		"price": 9,
-		"category": "Шкіра",
-		"defname": "Leather_Mink"
-	},
-	{
-		"abr": "шкірабегемота",
-		"price": 6,
-		"category": "Шкіра",
-		"defname": "Leather_Hippo"
-	},
-	{
-		"abr": "шкіраброненосця",
-		"price": 5,
-		"category": "Шкіра",
-		"defname": "Leather_Armadillo"
-	},
-	{
-		"abr": "унікальнийревольвер",
-		"price": 226,
-		"category": "Unique weapons",
-		"defname": "Gun_Revolver_Unique"
-	},
-	{
-		"abr": "унікальнагвинтівказковзнимзатвором",
-		"price": 425,
-		"category": "Unique weapons",
-		"defname": "Gun_BoltActionRifle_Unique"
-	},
-	{
-		"abr": "унікальнийавтоматичнийдробовик",
-		"price": 675,
-		"category": "Unique weapons",
-		"defname": "Gun_ChainShotgun_Unique"
-	},
-	{
-		"abr": "унікальнийважкийпістолет-кулемет",
-		"price": 592,
-		"category": "Unique weapons",
-		"defname": "Gun_HeavySMG_Unique"
-	},
-	{
-		"abr": "унікальнийлегкийкулемет",
-		"price": 708,
-		"category": "Unique weapons",
-		"defname": "Gun_LMG_Unique"
-	},
-	{
-		"abr": "унікальнаштурмовагвинтівка",
-		"price": 800,
-		"category": "Unique weapons",
-		"defname": "Gun_AssaultRifle_Unique"
-	},
-	{
-		"abr": "унікальнаснайперськагвинтівка",
-		"price": 883,
-		"category": "Unique weapons",
-		"defname": "Gun_SniperRifle_Unique"
-	},
-	{
-		"abr": "унікальниймініган",
-		"price": 1933,
-		"category": "Unique weapons",
-		"defname": "Gun_Minigun_Unique"
-	},
-	{
-		"abr": "унікальнийдовгийлук",
-		"price": 174,
-		"category": "Unique weapons",
-		"defname": "Bow_Great_Unique"
-	},
-	{
-		"abr": "унікальнаенергетичнагвинтівка",
-		"price": 1683,
-		"category": "Unique weapons",
-		"defname": "Gun_ChargeRifle_Unique"
-	},
-	{
-		"abr": "унікальнийенергоспис",
-		"price": 2258,
-		"category": "Unique weapons",
-		"defname": "Gun_ChargeLance_Unique"
-	},
-	{
-		"abr": "унікальнийпроменевапомповарушниця",
-		"price": 2058,
-		"category": "Unique weapons",
-		"defname": "Gun_BeamRepeater_Unique"
-	},
-	{
-		"abr": "шоломскафандра",
-		"price": 323,
+		"abr": "тюрбан",
+		"price": 75,
 		"category": "Головні убори",
-		"defname": "Apparel_VacsuitHelmet"
+		"defname": "Apparel_Headwrap"
 	},
 	{
-		"abr": "рюкзакмисливця",
-		"price": 508,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_PackHunter"
+		"abr": "хіджаб",
+		"price": 111,
+		"category": "Головні убори",
+		"defname": "Apparel_Broadwrap"
 	},
 	{
-		"abr": "вузолцеребрекса",
-		"price": 8333,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_CerebrexNode"
+		"abr": "маска",
+		"price": 62,
+		"category": "Головні убори",
+		"defname": "Apparel_VisageMask"
 	},
 	{
-		"abr": "скафандр",
-		"price": 1033,
-		"category": "Броня",
-		"defname": "Apparel_Vacsuit"
+		"abr": "шапка-скибка",
+		"price": 62,
+		"category": "Головні убори",
+		"defname": "Apparel_Slicecap"
 	},
 	{
-		"abr": "дитячийскафандр",
-		"price": 575,
-		"category": "Броня",
-		"defname": "Apparel_VacsuitChildren"
+		"abr": "нашийникраба",
+		"price": 94,
+		"category": "Головні убори",
+		"defname": "Apparel_Collar"
 	},
 	{
-		"abr": "vacstoneblocks",
-		"price": 3,
-		"category": "Кам'яні блоки",
-		"defname": "BlocksVacstone"
+		"abr": "капелюхнаглядача",
+		"price": 92,
+		"category": "Головні убори",
+		"defname": "Apparel_AuthorityCap"
 	},
 	{
-		"abr": "архейськенасіння",
-		"price": 1083,
+		"abr": "шапказхвостом",
+		"price": 75,
+		"category": "Головні убори",
+		"defname": "Apparel_Tailcap"
+	},
+	{
+		"abr": "конічнийкапелюх",
+		"price": 94,
+		"category": "Головні убори",
+		"defname": "Apparel_Shadecone"
+	},
+	{
+		"abr": "товсташапка",
+		"price": 74,
+		"category": "Головні убори",
+		"defname": "Apparel_Flophat"
+	},
+	{
+		"abr": "рабськазбруя",
+		"price": 275,
 		"category": "Різне",
-		"defname": "ArcheanSeed"
+		"defname": "Apparel_BodyStrap"
 	},
 	{
-		"abr": "болотянийпес",
-		"price": 367,
-		"category": "Тварини",
-		"defname": "BogHound"
+		"abr": "бурка",
+		"price": 224,
+		"category": "Різне",
+		"defname": "Apparel_Burka"
 	},
 	{
-		"abr": "варан",
-		"price": 292,
-		"category": "Тварини",
-		"defname": "MonitorLizard"
+		"abr": "вінецьтортури",
+		"price": 91,
+		"category": "Головні убори",
+		"defname": "Apparel_TortureCrown"
 	},
 	{
-		"abr": "лучнийсобачка",
-		"price": 50,
-		"category": "Тварини",
-		"defname": "PrairieDog"
+		"abr": "пов'язканаочі",
+		"price": 74,
+		"category": "Головні убори",
+		"defname": "Apparel_Blindfold"
 	},
 	{
-		"abr": "дикобраз",
-		"price": 58,
-		"category": "Тварини",
-		"defname": "Porcupine"
+		"abr": "моторошнийбарельєф(середній)",
+		"price": 342,
+		"category": "Меблі",
+		"defname": "MorbidSlab_Medium"
 	},
 	{
-		"abr": "мастодонт",
-		"price": 1233,
-		"category": "Тварини",
-		"defname": "Mastodon"
+		"abr": "моторошнийбарельєф(великий)",
+		"price": 508,
+		"category": "Меблі",
+		"defname": "MorbidSlab_Broad"
 	},
 	{
-		"abr": "шаблезубийтигр",
-		"price": 833,
-		"category": "Тварини",
-		"defname": "Cat_Scimitar"
+		"abr": "тотемічнийбарельєф(середній)",
+		"price": 342,
+		"category": "Меблі",
+		"defname": "TotemicSlab_Medium"
 	},
 	{
-		"abr": "росомаха",
-		"price": 250,
-		"category": "Тварини",
-		"defname": "Wolverine"
+		"abr": "тотемічнийбарельєф(великий)",
+		"price": 508,
+		"category": "Меблі",
+		"defname": "TotemicSlab_Broad"
 	},
 	{
-		"abr": "величнийвовк",
-		"price": 833,
-		"category": "Тварини",
-		"defname": "Wolf_Great"
+		"abr": "шипастазірка(середня)",
+		"price": 323,
+		"category": "Меблі",
+		"defname": "SpikecoreFloorStar_Medium"
 	},
 	{
-		"abr": "лось",
-		"price": 625,
-		"category": "Тварини",
-		"defname": "Moose"
-	},
-	{
-		"abr": "вівцебик",
-		"price": 617,
-		"category": "Тварини",
-		"defname": "Muskox"
-	},
-	{
-		"abr": "тигр",
-		"price": 750,
-		"category": "Тварини",
-		"defname": "Tiger"
-	},
-	{
-		"abr": "норка",
-		"price": 267,
-		"category": "Тварини",
-		"defname": "Mink"
-	},
-	{
-		"abr": "горила",
-		"price": 1000,
-		"category": "Тварини",
-		"defname": "Gorilla"
-	},
-	{
-		"abr": "борсук",
-		"price": 167,
-		"category": "Тварини",
-		"defname": "Badger"
-	},
-	{
-		"abr": "панда",
-		"price": 667,
-		"category": "Тварини",
-		"defname": "Panda"
-	},
-	{
-		"abr": "бегемот",
-		"price": 1000,
-		"category": "Тварини",
-		"defname": "Hippo"
-	},
-	{
-		"abr": "мегакріт",
-		"price": 417,
-		"category": "Тварини",
-		"defname": "Megavole"
-	},
-	{
-		"abr": "броненосець",
-		"price": 167,
-		"category": "Тварини",
-		"defname": "Armadillo"
-	},
-	{
-		"abr": "алігатор",
-		"price": 583,
-		"category": "Тварини",
-		"defname": "Alligator"
-	},
-	{
-		"abr": "жаба-бик",
-		"price": 100,
-		"category": "Тварини",
-		"defname": "Bullfrog"
-	},
-	{
-		"abr": "колосальнажаба",
-		"price": 367,
-		"category": "Тварини",
-		"defname": "ColossusToad"
-	},
-	{
-		"abr": "лавовийравлик",
-		"price": 300,
-		"category": "Тварини",
-		"defname": "LavaSnail"
-	},
-	{
-		"abr": "горобець",
-		"price": 50,
-		"category": "Тварини",
-		"defname": "Sparrow"
-	},
-	{
-		"abr": "ворона",
-		"price": 50,
-		"category": "Тварини",
-		"defname": "Crow"
-	},
-	{
-		"abr": "блакитник",
-		"price": 50,
-		"category": "Тварини",
-		"defname": "Bluebird"
-	},
-	{
-		"abr": "перепілка",
-		"price": 50,
-		"category": "Тварини",
-		"defname": "Quail"
-	},
-	{
-		"abr": "папугаара",
-		"price": 150,
-		"category": "Тварини",
-		"defname": "Macaw"
-	},
-	{
-		"abr": "фламінго",
-		"price": 200,
-		"category": "Тварини",
-		"defname": "Flamingo"
-	},
-	{
-		"abr": "чапля",
-		"price": 200,
-		"category": "Тварини",
-		"defname": "Heron"
-	},
-	{
-		"abr": "лебідь",
-		"price": 333,
-		"category": "Тварини",
-		"defname": "Swan"
-	},
-	{
-		"abr": "павич",
-		"price": 300,
-		"category": "Тварини",
-		"defname": "Peacock"
-	},
-	{
-		"abr": "стерв'ятник",
-		"price": 200,
-		"category": "Тварини",
-		"defname": "Vulture"
-	},
-	{
-		"abr": "пінгвін",
-		"price": 250,
-		"category": "Тварини",
-		"defname": "Penguin"
-	},
-	{
-		"abr": "морж",
-		"price": 500,
-		"category": "Тварини",
-		"defname": "Walrus"
-	},
-	{
-		"abr": "морськийлев",
-		"price": 533,
-		"category": "Тварини",
-		"defname": "SeaLion"
-	},
-	{
-		"abr": "тюлень",
+		"abr": "шипастазірка(велика)",
 		"price": 483,
-		"category": "Тварини",
-		"defname": "Seal"
+		"category": "Меблі",
+		"defname": "SpikecoreFloorStar_Broad"
 	},
 	{
-		"abr": "краб-відлюдник",
-		"price": 100,
-		"category": "Тварини",
-		"defname": "HermitCrab"
+		"abr": "килим(середній)",
+		"price": 256,
+		"category": "Меблі",
+		"defname": "RusticRug_Medium"
 	},
 	{
-		"abr": "кам'янийкраб",
-		"price": 133,
-		"category": "Тварини",
-		"defname": "StoneCrab"
+		"abr": "килим(великий)",
+		"price": 383,
+		"category": "Меблі",
+		"defname": "RusticRug_Broad"
 	},
 	{
-		"abr": "морськачерепаха",
-		"price": 417,
-		"category": "Тварини",
-		"defname": "SeaTurtle"
+		"abr": "анімалістичнийбарельєф(середній)",
+		"price": 342,
+		"category": "Меблі",
+		"defname": "AnimalistSlab_Medium"
 	},
 	{
-		"abr": "видра",
-		"price": 100,
-		"category": "Тварини",
-		"defname": "Otter"
+		"abr": "анімалістичнийбарельєф(великий)",
+		"price": 508,
+		"category": "Меблі",
+		"defname": "AnimalistSlab_Broad"
 	},
 	{
-		"abr": "личинка",
-		"price": 58,
-		"category": "Тварини",
-		"defname": "Larva"
+		"abr": "чаша",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertCup"
 	},
 	{
-		"abr": "королевавулика",
-		"price": 3333,
-		"category": "Тварини",
-		"defname": "HiveQueen"
+		"abr": "кулон",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertPendant"
 	},
 	{
-		"abr": "сарана",
-		"price": 200,
-		"category": "Тварини",
-		"defname": "Locust"
+		"abr": "коробка",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertBox"
 	},
 	{
-		"abr": "променевапомповарушниця",
-		"price": 2058,
-		"category": "Стрілецька зброя",
-		"defname": "Gun_BeamRepeater"
+		"abr": "скрижаль",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertTablet"
+	},
+	{
+		"abr": "фрагмент",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertFragment"
+	},
+	{
+		"abr": "руків'я",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertSwordHandle"
+	},
+	{
+		"abr": "скринька",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "куб",
+		"price": 833,
+		"category": "Інертні реліквії",
+		"defname": "RelicInertCube"
+	},
+	{
+		"abr": "сім'ягауранлен",
+		"price": 117,
+		"category": "Різне",
+		"defname": "GauranlenSeed"
 	},
 	{
 		"abr": "м'ясоведмедя",
@@ -3415,43 +2491,43 @@
 		"defname": "Meat_Cassowary"
 	},
 	{
-		"abr": "м'ясопума",
+		"abr": "м'ясопуми",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Cougar"
 	},
 	{
-		"abr": "м'ясопантера",
+		"abr": "м'ясопантери",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Panther"
 	},
 	{
-		"abr": "м'ясорись",
+		"abr": "м'ясорисі",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Lynx"
 	},
 	{
-		"abr": "м'ясокіт",
+		"abr": "м'ясокота",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Cat"
 	},
 	{
-		"abr": "м'ясойоркширськийтер'єр",
+		"abr": "м'ясойорширськоготер'єра",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "м'ясоморськасвинка",
+		"abr": "м'ясоморськоїсвинки",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_GuineaPig"
 	},
 	{
-		"abr": "м'ясолабрадор-ретривер",
+		"abr": "м'ясолабрадора-ретривера",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_LabradorRetriever"
@@ -3463,25 +2539,25 @@
 		"defname": "Meat_Husky"
 	},
 	{
-		"abr": "м'ясомавпа",
+		"abr": "м'ясомавпи",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Monkey"
 	},
 	{
-		"abr": "м'ясокурка",
+		"abr": "м'ясокурки",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Chicken"
 	},
 	{
-		"abr": "м'ясокачка",
+		"abr": "м'ясокачки",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Duck"
 	},
 	{
-		"abr": "м'ясоіндичка",
+		"abr": "м'ясоіндички",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Turkey"
@@ -3493,37 +2569,37 @@
 		"defname": "Meat_Cow"
 	},
 	{
-		"abr": "м'ясобумалопа",
+		"abr": "м'ясобумалопи",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Boomalope"
 	},
 	{
-		"abr": "м'ясомуффало",
+		"abr": "м'ясомуфффала",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Muffalo"
 	},
 	{
-		"abr": "м'ясобізон",
+		"abr": "м'ясобізона",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Bison"
 	},
 	{
-		"abr": "м'ясоверблюд",
+		"abr": "м'ясоверблюда",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Dromedary"
 	},
 	{
-		"abr": "м'ясокоза",
+		"abr": "м'ясокози",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Goat"
 	},
 	{
-		"abr": "м'ясолось",
+		"abr": "м'ясолося",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Elk"
@@ -3535,7 +2611,7 @@
 		"defname": "Meat_Yak"
 	},
 	{
-		"abr": "м'ясопівнічнийолень",
+		"abr": "м'ясопівнічногооленя",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Caribou"
@@ -3547,25 +2623,25 @@
 		"defname": "Meat_Horse"
 	},
 	{
-		"abr": "м'ясовіслюк",
+		"abr": "м'ясовіслюка",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Donkey"
 	},
 	{
-		"abr": "м'ясослон",
+		"abr": "м'ясослона",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Elephant"
 	},
 	{
-		"abr": "м'ясоносоріг",
+		"abr": "м'ясоносорога",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
-		"abr": "м'ясозаєць",
+		"abr": "м'ясозайця",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Hare"
@@ -3589,13 +2665,13 @@
 		"defname": "Meat_Cobra"
 	},
 	{
-		"abr": "м'ясочерепаха",
+		"abr": "м'ясочерепахи",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Tortoise"
 	},
 	{
-		"abr": "м'ясоальфабобер",
+		"abr": "м'ясоальфабобра",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Alphabeaver"
@@ -3607,7 +2683,7 @@
 		"defname": "Meat_Pig"
 	},
 	{
-		"abr": "м'ясогірськийкозел",
+		"abr": "м'ясогірськогокозла",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Ibex"
@@ -3619,73 +2695,73 @@
 		"defname": "Meat_Deer"
 	},
 	{
-		"abr": "м'ясогазель",
+		"abr": "м'ясогазелі",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Gazelle"
 	},
 	{
-		"abr": "м'ясошиншила",
+		"abr": "м'ясошиншили",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Chinchilla"
 	},
 	{
-		"abr": "м'ясовівця",
+		"abr": "м'ясовівці",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Sheep"
 	},
 	{
-		"abr": "м'ясоальпака",
+		"abr": "м'ясоальпаки",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Alpaca"
 	},
 	{
-		"abr": "м'ясомегалінивець",
+		"abr": "м'ясомегалінивця",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Megasloth"
 	},
 	{
-		"abr": "м'ясокапібара",
+		"abr": "м'ясокапібари",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Capybara"
 	},
 	{
-		"abr": "м'ясобілка",
+		"abr": "м'ясобілки",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Squirrel"
 	},
 	{
-		"abr": "м'ясощур",
+		"abr": "м'ясощура",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Rat"
 	},
 	{
-		"abr": "м'ясобумщур",
+		"abr": "м'ясобумщура",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Boomrat"
 	},
 	{
-		"abr": "м'ясоєнот",
+		"abr": "м'ясоєнота",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Raccoon"
 	},
 	{
-		"abr": "м'ясоігуана",
+		"abr": "м'ясоігуани",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Iguana"
 	},
 	{
-		"abr": "м'ясоварг",
+		"abr": "м'ясоварга",
 		"price": 3,
 		"category": "М'ясо",
 		"defname": "Meat_Warg"
@@ -3703,202 +2779,16 @@
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
-		"abr": "м'ясолюдина",
+		"abr": "м'ясолюдини",
 		"price": 1,
 		"category": "М'ясо",
 		"defname": "Meat_Human"
 	},
 	{
-		"abr": "м'ясотоксщур",
+		"abr": "м'ясонезрілоїдріади",
 		"price": 3,
 		"category": "М'ясо",
-		"defname": "Meat_WasteRat"
-	},
-	{
-		"abr": "м'ясотоксалопа",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Toxalope"
-	},
-	{
-		"abr": "м'ясоболотянийпес",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_BogHound"
-	},
-	{
-		"abr": "м'ясоваран",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_MonitorLizard"
-	},
-	{
-		"abr": "м'ясолучнийсобачка",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_PrairieDog"
-	},
-	{
-		"abr": "м'ясодикобраз",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Porcupine"
-	},
-	{
-		"abr": "м'ясомастодонт",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Mastodon"
-	},
-	{
-		"abr": "м'ясошаблезубийтигр",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Cat_Scimitar"
-	},
-	{
-		"abr": "м'ясоросомаха",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Wolverine"
-	},
-	{
-		"abr": "м'ясовеличногововка",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Wolf_Great"
-	},
-	{
-		"abr": "м'ясолось",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Moose"
-	},
-	{
-		"abr": "м'ясоальфа-трумбо",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_AlphaThrumbo"
-	},
-	{
-		"abr": "м'ясовівцебик",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Muskox"
-	},
-	{
-		"abr": "м'ясотигр",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Tiger"
-	},
-	{
-		"abr": "м'ясонорка",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Mink"
-	},
-	{
-		"abr": "м'ясогорила",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Gorilla"
-	},
-	{
-		"abr": "м'ясоборсук",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Badger"
-	},
-	{
-		"abr": "м'ясопанда",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Panda"
-	},
-	{
-		"abr": "м'ясобегемот",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Hippo"
-	},
-	{
-		"abr": "м'ясомегакріт",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Megavole"
-	},
-	{
-		"abr": "м'ясоброненосець",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Armadillo"
-	},
-	{
-		"abr": "м'ясоалігатор",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Alligator"
-	},
-	{
-		"abr": "м'ясожаба-бик",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Bullfrog"
-	},
-	{
-		"abr": "м'ясоколосальнажаба",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_ColossusToad"
-	},
-	{
-		"abr": "м'ясолавовийравлик",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_LavaSnail"
-	},
-	{
-		"abr": "м'ясоморж",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Walrus"
-	},
-	{
-		"abr": "м'ясоморськийлев",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_SeaLion"
-	},
-	{
-		"abr": "м'ясотюлень",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Seal"
-	},
-	{
-		"abr": "м'ясокраб-відлюдник",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_HermitCrab"
-	},
-	{
-		"abr": "м'ясокам'янийкраб",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_StoneCrab"
-	},
-	{
-		"abr": "м'ясоморськачерепаха",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_SeaTurtle"
-	},
-	{
-		"abr": "м'ясовидра",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Otter"
+		"defname": "Meat_Dryad_Basic"
 	},
 	{
 		"abr": "нейро-тренажернавички(стрільба)",
@@ -3949,202 +2839,10 @@
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
-		"abr": "анімалістичнийбарельєф(великий)",
-		"price": 508,
-		"category": "Меблі",
-		"defname": "AnimalistSlab_Broad"
-	},
-	{
-		"abr": "анімалістичнийбарельєф(середній)",
-		"price": 342,
-		"category": "Меблі",
-		"defname": "AnimalistSlab_Medium"
-	},
-	{
-		"abr": "барабан",
-		"price": 205,
-		"category": "Дозвілля",
-		"defname": "Drum"
-	},
-	{
-		"abr": "біоскульптор",
-		"price": 758,
-		"category": "Різне",
-		"defname": "BiosculpterPod"
-	},
-	{
-		"abr": "бонг",
-		"price": 517,
-		"category": "Різне",
-		"defname": "Burnbong"
-	},
-	{
-		"abr": "бурка",
-		"price": 224,
-		"category": "Різне",
-		"defname": "Apparel_Burka"
-	},
-	{
-		"abr": "вінецьтортури",
-		"price": 91,
-		"category": "Головні убори",
-		"defname": "Apparel_TortureCrown"
-	},
-	{
-		"abr": "горщикдлябонсаю",
-		"price": 82,
-		"category": "Меблі",
-		"defname": "PlantPot_Bonsai"
-	},
-	{
-		"abr": "двоспальнеліжко-плита",
-		"price": 288,
-		"category": "Меблі",
-		"defname": "SlabDoubleBed"
-	},
-	{
-		"abr": "динамік",
-		"price": 367,
-		"category": "Різне",
-		"defname": "Loudspeaker"
-	},
-	{
-		"abr": "диско-куля",
-		"price": 154,
-		"category": "Різне",
-		"defname": "LightBall"
-	},
-	{
-		"abr": "жертовнийпрапор",
-		"price": 198,
-		"category": "Різне",
-		"defname": "SacrificialFlag"
-	},
-	{
-		"abr": "кадильнийхрам",
-		"price": 272,
-		"category": "Різне",
-		"defname": "IncenseShrine"
-	},
-	{
-		"abr": "канібальськийбенкет",
-		"price": 220,
-		"category": "Різне",
-		"defname": "CannibalPlatter"
-	},
-	{
-		"abr": "капелюхнаглядача",
-		"price": 92,
-		"category": "Головні убори",
-		"defname": "Apparel_AuthorityCap"
-	},
-	{
-		"abr": "кафедра",
-		"price": 197,
-		"category": "Різне",
-		"defname": "Lectern"
-	},
-	{
-		"abr": "килим(великий)",
-		"price": 383,
-		"category": "Меблі",
-		"defname": "RusticRug_Broad"
-	},
-	{
-		"abr": "килим(середній)",
-		"price": 256,
-		"category": "Меблі",
-		"defname": "RusticRug_Medium"
-	},
-	{
-		"abr": "конічнийкапелюх",
-		"price": 94,
-		"category": "Головні убори",
-		"defname": "Apparel_Shadecone"
-	},
-	{
-		"abr": "коробка",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertBox"
-	},
-	{
-		"abr": "куб",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertCube"
-	},
-	{
-		"abr": "кулон",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertPendant"
-	},
-	{
-		"abr": "лавка",
-		"price": 350,
-		"category": "Меблі",
-		"defname": "Pew"
-	},
-	{
-		"abr": "ліжко-плита",
-		"price": 102,
-		"category": "Меблі",
-		"defname": "SlabBed"
-	},
-	{
-		"abr": "маска",
-		"price": 62,
-		"category": "Головні убори",
-		"defname": "Apparel_VisageMask"
-	},
-	{
-		"abr": "молитовнаподушка",
-		"price": 98,
-		"category": "Меблі",
-		"defname": "KneelPillow"
-	},
-	{
-		"abr": "молитовнийкилимок",
-		"price": 281,
-		"category": "Меблі",
-		"defname": "KneelSheet"
-	},
-	{
-		"abr": "моторошнийбарельєф(великий)",
-		"price": 508,
-		"category": "Меблі",
-		"defname": "MorbidSlab_Broad"
-	},
-	{
-		"abr": "моторошнийбарельєф(середній)",
-		"price": 342,
-		"category": "Меблі",
-		"defname": "MorbidSlab_Medium"
-	},
-	{
-		"abr": "м'ясонезріладріада",
-		"price": 3,
-		"category": "М'ясо",
-		"defname": "Meat_Dryad_Basic"
-	},
-	{
-		"abr": "нашийникраба",
-		"price": 94,
-		"category": "Головні убори",
-		"defname": "Apparel_Collar"
-	},
-	{
-		"abr": "нейроннийстимулятор",
-		"price": 408,
-		"category": "Різне",
-		"defname": "NeuralSupercharger"
-	},
-	{
-		"abr": "нейро-тренажернавички(інтелект)",
+		"abr": "нейро-тренажернавички(мистецтво)",
 		"price": 1250,
 		"category": "Нейротренажер навичок",
-		"defname": "Neurotrainer_Intellectual"
+		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "нейро-тренажернавички(медицина)",
@@ -4153,485 +2851,17 @@
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
-		"abr": "нейро-тренажернавички(мистецтво)",
-		"price": 1250,
-		"category": "Нейротренажер навичок",
-		"defname": "Neurotrainer_Artistic"
-	},
-	{
 		"abr": "нейро-тренажернавички(соціальність)",
 		"price": 1250,
 		"category": "Нейротренажер навичок",
 		"defname": "Neurotrainer_Social"
 	},
 	{
-		"abr": "опудало",
-		"price": 178,
-		"category": "Різне",
-		"defname": "Effigy"
-	},
-	{
-		"abr": "підвішенаклітка",
-		"price": 210,
-		"category": "Різне",
-		"defname": "GibbetCage"
-	},
-	{
-		"abr": "пов'язканаочі",
-		"price": 74,
-		"category": "Головні убори",
-		"defname": "Apparel_Blindfold"
-	},
-	{
-		"abr": "похоронневогнище",
-		"price": 230,
-		"category": "Різне",
-		"defname": "Pyre"
-	},
-	{
-		"abr": "прискорювачсну",
-		"price": 458,
-		"category": "Різне",
-		"defname": "SleepAccelerator"
-	},
-	{
-		"abr": "рабськазбруя",
-		"price": 275,
-		"category": "Різне",
-		"defname": "Apparel_BodyStrap"
-	},
-	{
-		"abr": "різдвянедерево",
-		"price": 263,
-		"category": "Різне",
-		"defname": "ChristmasTree"
-	},
-	{
-		"abr": "руків'я",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertSwordHandle"
-	},
-	{
-		"abr": "сім'ягауранлен",
-		"price": 117,
-		"category": "Різне",
-		"defname": "GauranlenSeed"
-	},
-	{
-		"abr": "скрижаль",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertTablet"
-	},
-	{
-		"abr": "скринька",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertArk"
-	},
-	{
-		"abr": "скульптурастраху",
-		"price": 517,
-		"category": "Мистецтво",
-		"defname": "SculptureTerror"
-	},
-	{
-		"abr": "стілперукаря",
-		"price": 375,
-		"category": "Меблі",
-		"defname": "StylingStation"
-	},
-	{
-		"abr": "товсташапка",
-		"price": 74,
-		"category": "Головні убори",
-		"defname": "Apparel_Flophat"
-	},
-	{
-		"abr": "тотемічнийбарельєф(великий)",
-		"price": 508,
-		"category": "Меблі",
-		"defname": "TotemicSlab_Broad"
-	},
-	{
-		"abr": "тотемічнийбарельєф(середній)",
-		"price": 342,
-		"category": "Меблі",
-		"defname": "TotemicSlab_Medium"
-	},
-	{
-		"abr": "тюрбан",
-		"price": 75,
-		"category": "Головні убори",
-		"defname": "Apparel_Headwrap"
-	},
-	{
-		"abr": "фрагмент",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertFragment"
-	},
-	{
-		"abr": "хіджаб",
-		"price": 111,
-		"category": "Головні убори",
-		"defname": "Apparel_Broadwrap"
-	},
-	{
-		"abr": "чаша",
-		"price": 833,
-		"category": "Інертні реліквії",
-		"defname": "RelicInertCup"
-	},
-	{
-		"abr": "черепнасписі",
-		"price": 101,
-		"category": "Різне",
-		"defname": "Skullspike"
-	},
-	{
-		"abr": "шапказхвостом",
-		"price": 75,
-		"category": "Головні убори",
-		"defname": "Apparel_Tailcap"
-	},
-	{
-		"abr": "шапка-скибка",
-		"price": 62,
-		"category": "Головні убори",
-		"defname": "Apparel_Slicecap"
-	},
-	{
-		"abr": "шипастазірка(велика)",
-		"price": 483,
-		"category": "Меблі",
-		"defname": "SpikecoreFloorStar_Broad"
-	},
-	{
-		"abr": "шипастазірка(середня)",
-		"price": 323,
-		"category": "Меблі",
-		"defname": "SpikecoreFloorStar_Medium"
-	},
-	{
-		"abr": "адреналіновесерце",
-		"price": 158,
-		"category": "Гулі",
-		"defname": "AdrenalHeart"
-	},
-	{
-		"abr": "біоферит",
-		"price": 1,
-		"category": "Матеріали",
-		"defname": "Bioferrite"
-	},
-	{
-		"abr": "біоферитнийформувач",
-		"price": 333,
-		"category": "Виробництво",
-		"defname": "BioferriteShaper"
-	},
-	{
-		"abr": "генераторімпульсубіомутації",
-		"price": 1333,
-		"category": "Артефакти",
-		"defname": "BiomutationPulser"
-	},
-	{
-		"abr": "генераторпси-імпульсузуламку(тварини)",
-		"price": 875,
-		"category": "Артефакти",
-		"defname": "ShardAnimalPulser"
-	},
-	{
-		"abr": "детекторруху",
-		"price": 108,
-		"category": "Різне",
-		"defname": "ProximityDetector"
-	},
-	{
-		"abr": "електричнийінгібітор",
-		"price": 222,
-		"category": "Різне",
-		"defname": "ElectricInhibitor"
-	},
-	{
-		"abr": "жахошкіра",
-		"price": 6,
-		"category": "Шкіра",
-		"defname": "Leather_Dread"
-	},
-	{
-		"abr": "запальнагвинтівка",
-		"price": 825,
-		"category": "Стрілецька зброя",
-		"defname": "Gun_HellcatRifle"
-	},
-	{
-		"abr": "збираченергії",
-		"price": 267,
-		"category": "Електроенергія",
-		"defname": "Electroharvester"
-	},
-	{
-		"abr": "збудниклюті",
-		"price": 825,
-		"category": "Різне",
-		"defname": "FrenzyInducer"
-	},
-	{
-		"abr": "золотийкуб",
-		"price": 2000,
-		"category": "Різне",
-		"defname": "GoldenCube"
-	},
-	{
-		"abr": "інгібіторзуламка",
-		"price": 717,
-		"category": "Різне",
-		"defname": "ShardInhibitor"
-	},
-	{
-		"abr": "інсинератор",
-		"price": 883,
-		"category": "Стрілецька зброя",
-		"defname": "Gun_Incinerator"
-	},
-	{
-		"abr": "корозійнесерце",
-		"price": 158,
-		"category": "Гулі",
-		"defname": "CorrosiveHeart"
-	},
-	{
-		"abr": "лабораторіядлясироваток",
-		"price": 1208,
-		"category": "Виробництво",
-		"defname": "SerumCentrifuge"
-	},
-	{
-		"abr": "лабораторнийхалат",
-		"price": 263,
-		"category": "Різне",
-		"defname": "Apparel_LabCoat"
-	},
-	{
-		"abr": "маякзуламку",
-		"price": 708,
-		"category": "Різне",
-		"defname": "ShardBeacon"
-	},
-	{
-		"abr": "обладунокгуля",
-		"price": 142,
-		"category": "Гулі",
-		"defname": "GhoulPlating"
-	},
-	{
-		"abr": "пастказпиломнесмертя",
-		"price": 192,
-		"category": "Захист",
-		"defname": "TrapIED_Deadlife"
-	},
-	{
-		"abr": "підігрівачкрові",
-		"price": 183,
-		"category": "Гулі",
-		"defname": "BloodWarmer"
-	},
-	{
-		"abr": "платформадляутримання",
-		"price": 139,
-		"category": "Різне",
-		"defname": "HoldingPlatform"
-	},
-	{
-		"abr": "поглиначбіофериту",
-		"price": 236,
-		"category": "Електроенергія",
-		"defname": "BioferriteHarvester"
-	},
-	{
-		"abr": "покрученем'ясо",
-		"price": 1,
-		"category": "М'ясо",
-		"defname": "Meat_Twisted"
-	},
-	{
-		"abr": "пригнічувачсну",
-		"price": 908,
-		"category": "Різне",
-		"defname": "SleepSuppressor"
-	},
-	{
-		"abr": "пристрійнесмертя",
-		"price": 742,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_DeadlifePack"
-	},
-	{
-		"abr": "пристрійфальшфеєрівдестабілізації",
-		"price": 134,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_DisruptorFlarePack"
-	},
-	{
-		"abr": "ранець-турель",
-		"price": 392,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_PackTurret"
-	},
-	{
-		"abr": "ритуальнамаска",
-		"price": 101,
-		"category": "Головні убори",
-		"defname": "Apparel_CultistMask"
-	},
-	{
-		"abr": "саджанецьдерева-провісника",
-		"price": 1000,
-		"category": "Різне",
-		"defname": "HarbingerSeed"
-	},
-	{
-		"abr": "серцеметалевоїкрові",
-		"price": 158,
-		"category": "Гулі",
-		"defname": "MetalbloodHeart"
-	},
-	{
-		"abr": "сироваткавоскресіннягуля",
-		"price": 100,
-		"category": "Наркотики",
-		"defname": "GhoulResurrectionSerum"
-	},
-	{
-		"abr": "сироваткаджагернаута",
-		"price": 333,
-		"category": "Наркотики",
-		"defname": "JuggernautSerum"
-	},
-	{
-		"abr": "сироватказалізноїкрові",
-		"price": 333,
-		"category": "Наркотики",
-		"defname": "MetalbloodSerum"
-	},
-	{
-		"abr": "сироватказорупорожнечі",
-		"price": 100,
-		"category": "Наркотики",
-		"defname": "VoidsightSerum"
-	},
-	{
-		"abr": "сироваткаприглушенняпочуттів",
-		"price": 133,
-		"category": "Наркотики",
-		"defname": "MindNumbSerum"
-	},
-	{
-		"abr": "скульптуракубазбруду",
-		"price": 30,
-		"category": "Мистецтво",
-		"defname": "DirtCubeSculpture"
-	},
-	{
-		"abr": "скульптуракубазкаменю",
-		"price": 30,
-		"category": "Мистецтво",
-		"defname": "StoneCubeSculpture"
-	},
-	{
-		"abr": "скульптуракубазпіску",
-		"price": 30,
-		"category": "Мистецтво",
-		"defname": "SandCubeSculpture"
-	},
-	{
-		"abr": "скульптуракубазуламків",
-		"price": 30,
-		"category": "Мистецтво",
-		"defname": "ScrapCubeSculpture"
-	},
-	{
-		"abr": "скульптурапорожнечі",
-		"price": 206,
-		"category": "Мистецтво",
-		"defname": "VoidSculpture"
-	},
-	{
-		"abr": "снаряднесмертя",
-		"price": 92,
-		"category": "Мінометні снаряди",
-		"defname": "Shell_Deadlife"
-	},
-	{
-		"abr": "списбіомутації",
-		"price": 1417,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_BiomutationLance"
-	},
-	{
-		"abr": "списбожевіллязуламка",
-		"price": 883,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_ShardPsychicInsanityLance"
-	},
-	{
-		"abr": "списприголомшеннязуламка",
-		"price": 850,
-		"category": "Додаткове спорядження",
-		"defname": "Apparel_ShardPsychicShockLance"
-	},
-	{
-		"abr": "уламок",
-		"price": 667,
-		"category": "Виробництво",
-		"defname": "Shard"
-	},
-	{
-		"abr": "унікальнапекельнарушниця",
-		"price": 825,
-		"category": "Unique weapons",
-		"defname": "Gun_HellcatRifle_Unique"
-	},
-	{
-		"abr": "фоліант",
-		"price": 417,
-		"category": "Книги",
-		"defname": "Tome"
-	},
-	{
-		"abr": "фрагментмоноліту",
-		"price": 3333,
-		"category": "Різне",
-		"defname": "MonolithFragment"
-	},
-	{
-		"abr": "хребетревенанта",
-		"price": 1667,
-		"category": "Різне",
-		"defname": "RevenantSpine"
-	},
-	{
-		"abr": "хребціревенанта",
-		"price": 3158,
-		"category": "Біонічні",
-		"defname": "RevenantVertebrae"
-	},
-	{
-		"abr": "церемоніальнийкаптур",
-		"price": 91,
-		"category": "Головні убори",
-		"defname": "Apparel_CeremonialCultistMask"
-	},
-	{
-		"abr": "шипигуля",
-		"price": 80,
-		"category": "Гулі",
-		"defname": "GhoulBarbs"
+		"abr": "нейро-тренажернавички(інтелект)",
+		"price": 1250,
+		"category": "Нейротренажер навичок",
+		"defname": "Neurotrainer_Intellectual"
 	}
 	],
-	"total": 773
+	"total": 477
 }
