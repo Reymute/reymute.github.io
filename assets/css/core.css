@@ -1,5 +1,5 @@
 header.site-header {
-    background-color: #aa78fa;
+    background-color: #c099ff;
     position: fixed;
 }
 
@@ -9,8 +9,8 @@ body {
 
 .tab {
     overflow: hidden;
-    border: 1px solid #8ae4ffaa;
-    background-color: #cdadff;
+    border: 1px solid #d46ae9;
+    background-color: #f0a7ff;
 }
 
 .tab button {
@@ -24,7 +24,7 @@ body {
 }
 
 .tab button:hover {
-    background-color: #5cd9ff;
+    background-color: #d46ae9;
 }
 
 .tabContent {
@@ -47,9 +47,9 @@ body {
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #7e0eff;
+    border: 1px solid #d46ae9;
     margin-bottom: 12px;
-    background-color: #9843ff;
+    background-color: #f0a7ff;
 }
 
 table {
