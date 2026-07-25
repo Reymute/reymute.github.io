@@ -1,109 +1,119 @@
 header.site-header {
-    background-color: #e8c9ff;
-    position: fixed;
+  background-color: #c98eff;
+  position: fixed;
 }
 
 body {
-    background-color: #e8cff7;
+  background-color: #dda3ff;
 }
 
 .tab {
-    overflow: hidden;
-    border: 1px solid #e4b2ed;
-    background-color: #f5cefd;
+  overflow: hidden;
+  border: 1px solid #a374f5;
+  background-color: #ceb2ff;
 }
 
 .tab button {
-    background-color: inherit;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 12px 12px;
-    transition: 0.3s;
-    font-size: 0.9em;
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 12px 12px;
+  transition: 0.3s;
+  font-size: 0.9em;
 }
 
 .tab button:hover {
-    background-color: #ee97ff;
+  background-color: #ffffff;
 }
 
 .tabContent {
-    display: none;
-    animation: fadeEffect 320ms;
-    border-top: none;
+  display: none;
+  animation: fadeEffect 320ms;
+  border-top: none;
 }
 
 @keyframes fadeEffect {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
 
 .search {
-    width: 100%;
-    font-size: 16px;
-    padding: 12px 20px 12px 40px;
-    border: 1px solid #e4b2ed;
-    margin-bottom: 12px;
-    background-color: #f5cefd;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #a374f5;
+  margin-bottom: 12px;
+  background-color: #ceb2ff;
 }
 
 table {
-    display: table;
-    background-color: #f6cdff;
+  display: table;
+  background-color: #ceb2ff;
 }
 
 th {
-    font-size: 0.9em;
-    font-style: bold;
-    cursor: pointer;
-    background-color: #f6cdff;
+  font-size: 0.9em;
+  font-style: bold;
+  cursor: pointer;
+  background-color: #a374f5;
 }
 
 th.priceWithData {
-    width: 20%;
+  width: 20%;
 }
+
 th.karmaType {
   width: 20%;
 }
+
 th.price {
-    width: 15%;
+  width: 15%;
 }
+
 th.author {
   width: 30%;
 }
+
 th.version {
   width: 20%;
 }
+
 td.description {
-    font-size: 0.7em;
+  font-size: 0.7em;
 }
+
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
   color: #4a4a4a;
 }
+
 span.metadata {
-    font-size: 12px;
-    padding: 0px;
-    font-style: italic;
-    color: #4a4a4a;
+  font-size: 12px;
+  padding: 0px;
+  font-style: italic;
+  color: #4a4a4a;
 }
 
 @media screen and (max-width: break) {
   th.priceWithData {
     font-size: 0.8em;
   }
+
   th.price {
-      font-size: 0.8em;
+    font-size: 0.8em;
   }
+
   td.description {
     font-size: 0.7em;
   }
+
   span.metadata {
     font-size: 0.6em;
     padding: 0;
@@ -116,12 +126,15 @@ span.metadata {
   th.priceWithData {
     font-size: 0.8em;
   }
+
   th.price {
     font-size: 0.8em;
   }
+
   td.description {
     font-size: 0.7em;
   }
+
   span.metadata {
     font-size: 0.6em;
     font-style: italic;
