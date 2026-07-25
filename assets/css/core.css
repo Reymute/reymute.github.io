@@ -1,15 +1,15 @@
 header.site-header {
-    background-color: #d4b9ff;
+    background-color: #e8c9ff;
     position: fixed;
 }
 
 body {
-    background-color: #e1cfff;
+    background-color: #e8cff7;
 }
 
 .tab {
     overflow: hidden;
-    border: 1px solid #db98e8;
+    border: 1px solid #e4b2ed;
     background-color: #f5cefd;
 }
 
@@ -47,21 +47,21 @@ body {
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #ee98ff;
+    border: 1px solid #e4b2ed;
     margin-bottom: 12px;
-    background-color: #f5c2ff;
+    background-color: #f5cefd;
 }
 
 table {
     display: table;
-    background-color: #f0a7ff;
+    background-color: #f6cdff;
 }
 
 th {
     font-size: 0.9em;
     font-style: bold;
     cursor: pointer;
-    background-color: #ef9fff;
+    background-color: #f6cdff;
 }
 
 th.priceWithData {
