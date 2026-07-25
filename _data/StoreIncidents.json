@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -232,12 +232,7 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +257,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -288,7 +283,7 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
@@ -302,7 +297,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -403,7 +398,7 @@
 	{
 		"abr": "use",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "wear",
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
