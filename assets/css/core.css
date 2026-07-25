@@ -24,7 +24,7 @@ body {
 }
 
 .tab button:hover {
-  background-color: #ffffff;
+  background-color: #af5afe;
 }
 
 .tabContent {
@@ -61,7 +61,7 @@ th {
   font-size: 0.9em;
   font-style: bold;
   cursor: pointer;
-  background-color: #a374f5;
+  background-color: #c09bff;
 }
 
 th.priceWithData {
